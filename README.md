@@ -1,4 +1,4 @@
-# Mi Portafolio de Tchnolochicas PRO
+# Mi Portafolio de Technolochicas PRO
 
 Este protfolio es desarrollado para poner en práctica las habilidades obtenidas dentro del bootcamp de desarrollo frontend.
 Fue desarrollado con HTML, CSS Y JS con el uso de framework Boorstrap utilizando animaciones de bibliotecas externas.
